@@ -13,7 +13,7 @@ Changing product names always is a lot of work and comes with some downsides. Ho
 
 There are various reasons for this:
 
-- We wanted to let the community now that Xenko is completely and 100% free and open in its development. This also means that any donations should always be made 100% visible to the public. This also includes what and where the donation money is spent on. Joining the .NET Foundation would aid in visualizing how this money would be spent.
+- We wanted to let the community know that Xenko is completely and 100% free and open in its development. This also means that any donations should always be made 100% visible to the public. This also includes what and where the donation money is spent on. Joining the .NET Foundation would aid in visualizing how this money would be spent.
 - Being able to tell possible investors/backers/companies that Xenko/Stride can be trusted. This can help with publicity and more funding.
 - They also provide help for opensource projects in various areas.
 
@@ -25,7 +25,7 @@ About 6 months later, several polls, logo proposal and a lot of brainstorming, w
 
 ## New Stride Logo
 
-The new Stride logo, designed by [sebl](https://github.com/sebllll) (from [schnellebuntebilder](https://schnellebuntebilder.de/)), was chosen after a process managed by [Eideren](https://github.com/Eideren) consisting of several community votes. Thanks to all the other people involved!
+The new Stride logo, designed by [sebl](https://github.com/sebllll) (from [schnellebuntebilder](https://schnellebuntebilder.de/)), was chosen after a process managed by [Eideren](https://github.com/Eideren) consisting of several community votes. Also, [tebjan](https://twitter.com/tebjan?lang=en) is the one that came up with the name Stride. Many thanks to them, as well as to all the other people involved!
 
 Without further ado, here it is:
 
